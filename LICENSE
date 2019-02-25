@@ -19,3 +19,30 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+
+================================================================================
+
+
+
+本ソフトウェアはLive2D Euclid 3 SDKのネイティブ版フレームワークを元にしています。
+本ソフトウェアを利用する場合Live2D社の以下のライセンスに同意する必要があります。
+
+Live2D Proprietary Software 使用許諾契約書
+https://www.live2d.com/eula/live2d-proprietary-software-license-agreement_jp.html
+
+Live2D Open Software 使用許諾契約書
+https://www.live2d.com/eula/live2d-open-software-license-agreement_jp.html
+
+
+
+================================================================================
+
+
+
+他に、以下のオープンソースソフトウェアを利用しています。
+
+Math.NET Numerics License (MIT/X11)
+Copyright (c) 2002-2018 Math.NET
+https://numerics.mathdotnet.com/License.html

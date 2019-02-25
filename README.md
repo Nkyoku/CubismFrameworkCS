@@ -1,2 +1,2 @@
 # CubismFrameworkCS
-Live2D Cubism 3 SDK NativeのC#移植 (Unityを使わない)
+Live2D Cubism 3 SDK NativeをUnityを使わず勝手にC#移植
