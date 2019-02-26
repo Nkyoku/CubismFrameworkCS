@@ -1,0 +1,2 @@
+Cubism 3 SDKのzipファイルを展開し、
+中に入っているCore/dll以下のディレクトリ群(windowsやandroid等)をここにコピーする。

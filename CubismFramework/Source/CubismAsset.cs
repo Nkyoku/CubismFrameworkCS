@@ -26,7 +26,7 @@ namespace CubismFramework
         /// <returns>trueなら読み込みが成功したことを示す。</returns>
         public CubismAsset(string model_file_path, CubismFileLoader reader)
         {
-            string base_dir = Path.GetDirectoryName(Path.GetFullPath(model_file_path));
+            string base_dir = Path.GetDirectoryName(model_file_path);
             var model_setting = CubismModelSettingJson.Create(reader(model_file_path));
             
             // mocファイルを読み込み、CubismModelを作成する

@@ -35,14 +35,28 @@ https://www.live2d.com/eula/live2d-proprietary-software-license-agreement_jp.htm
 Live2D Open Software 使用許諾契約書
 https://www.live2d.com/eula/live2d-open-software-license-agreement_jp.html
 
+無償提供マテリアルの使用許諾契約書
+https://www.live2d.com/eula/live2d-free-material-license-agreement_jp.html
+
 
 
 ================================================================================
 
 
 
-他に、以下のオープンソースソフトウェアを利用しています。
+他に、以下のソフトウェアを利用しています。
 
 Math.NET Numerics License (MIT/X11)
 Copyright (c) 2002-2018 Math.NET
+https://numerics.mathdotnet.com/
 https://numerics.mathdotnet.com/License.html
+
+OpenGL.Net
+Copyright (c) 2015-2017 Luca Piccioni
+https://www.nuget.org/packages/OpenGL.Net/
+https://opensource.org/licenses/MIT
+
+System,Drawing.Common
+(c) Microsoft Corporation. All rights reserved.
+https://www.nuget.org/packages/System.Drawing.Common/
+https://github.com/dotnet/corefx/blob/master/LICENSE.TXT
