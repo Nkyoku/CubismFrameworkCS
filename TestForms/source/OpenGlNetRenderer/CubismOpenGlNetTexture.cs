@@ -81,10 +81,10 @@ namespace CubismFramework
         /// <param name="wrap_mode">境界処理</param>
         private void SetupParameters(int min_mag_filter, int wrap_mode)
         {
-            Gl.TexParameteri(TextureTarget.Texture2d, TextureParameterName.TextureMinFilter, ref min_mag_filter);
-            Gl.TexParameteri(TextureTarget.Texture2d, TextureParameterName.TextureMagFilter, ref min_mag_filter);
-            Gl.TexParameteri(TextureTarget.Texture2d, TextureParameterName.TextureWrapS, ref wrap_mode);
-            Gl.TexParameteri(TextureTarget.Texture2d, TextureParameterName.TextureWrapT, ref wrap_mode);
+            Gl.TexParameteri(TextureTarget.Texture2d, TextureParameterName.TextureMinFilter, min_mag_filter);
+            Gl.TexParameteri(TextureTarget.Texture2d, TextureParameterName.TextureMagFilter, min_mag_filter);
+            Gl.TexParameteri(TextureTarget.Texture2d, TextureParameterName.TextureWrapS, wrap_mode);
+            Gl.TexParameteri(TextureTarget.Texture2d, TextureParameterName.TextureWrapT, wrap_mode);
         }
         
         public uint TextureId { get; private set; } = 0;
